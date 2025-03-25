@@ -58,8 +58,5 @@ jupyter notebook Projet AI_PCA.ipynb
 
 
 
-## 📝 Licence
-Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détails.
 
----
 
