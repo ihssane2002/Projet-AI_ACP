@@ -28,7 +28,7 @@ cd Projet-AI_ACP
 ```
 3. Lancez le notebook :
 ```bash
-jupyter notebook Projet_ACP_Athletes.ipynb
+jupyter notebook Projet AI_PCA.ipynb
 ```
 
 ---
